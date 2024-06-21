@@ -7,4 +7,4 @@ Es un conversor de divisas que te presenta un menú con las opciones de cambio e
 
 
 
-![pexels-cottonbro-3943729](https://github.com/RosaGnzlz/ConversorDeMonedas/assets/161905046/42e60be9-1787-4f21-a724-02ae50ef6fbf)
+[![pexels-cottonbro-3943729](https://github.com/RosaGnzlz/ConversorDeMonedas/assets/161905046/42e60be9-1787-4f21-a724-02ae50ef6fbf)](https://images.pexels.com/photos/7763040/pexels-photo-7763040.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
