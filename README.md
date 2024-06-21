@@ -1,5 +1,4 @@
 <h1> ConversorDeMonedas</h1> 
-![pexels-cottonbro-3943729](https://github.com/RosaGnzlz/ConversorDeMonedas/assets/161905046/d8e2784e-7f80-4983-b3b0-b71348c56e52)
 
 Ejemplo de un conversor de moneda con lista de opciones
 Este un proyecto creado como un desafío en un curso de programación especializado en Back-End.
@@ -8,3 +7,4 @@ Es un conversor de divisas que te presenta un menú con las opciones de cambio e
 
 
 
+![pexels-cottonbro-3943729](https://github.com/RosaGnzlz/ConversorDeMonedas/assets/161905046/42e60be9-1787-4f21-a724-02ae50ef6fbf)
