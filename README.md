@@ -4,5 +4,5 @@ Este un proyecto creado como un desafío en un curso de programación especializ
 
 Es un conversor de divisas que te presenta un menú con las opciones de cambio especificadas, después de escoger el cambio que quieres realizar te pide el monto para cambiar y al final muestra una leyenda que te dice el monto que introdujiste con el tipo de moneda inicial y el valor final en la moneda a la que se realizó el cambio. Todo esto lo realiza con ayuda de una API para conocer el valor de la moneda introducida en ese momento. 
 
-![pexels-pixabay-210607](https://github.com/RosaGnzlz/ConversorDeMonedas/assets/161905046/cd96ceaa-c1e2-47e3-934e-44d7ed855cbd)
+Foto de Pixabay de Pexels: https://www.pexels.com/es-es/foto/junta-de-bolsa-de-valores-210607/
 
